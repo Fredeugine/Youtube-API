@@ -7,4 +7,4 @@ to avoid failed automatic fetches to the backend api
 First of all, run `npm install` to install all necessary packages first
 
 **STEP 2**</br>
-Type or run  `npm start` in the terminal to start the frontend API
+Type or run  `npm start` in the terminal to start the backend API
